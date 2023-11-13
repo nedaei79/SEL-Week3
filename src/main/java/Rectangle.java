@@ -12,19 +12,19 @@ public class Rectangle {
     }
 
     public int getHeight() {
-        return 0;
+        return this.height;
     }
 
     public int getWidth() {
-        return 0;
+        return this.width;
     }
 
     public void setHeight(int height) {
-
+        this.height = height;
     }
 
     public void setWidth(int width) {
-
+        this.width = width;
     }
 
 }
