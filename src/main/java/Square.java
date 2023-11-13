@@ -6,11 +6,11 @@ public class Square {
     }
 
     public int computeArea() {
-
+        return 0;
     }
 
     public int getLength() {
-
+        return 0;
     }
 
     public void setLength(int length) {
