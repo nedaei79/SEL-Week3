@@ -7,7 +7,7 @@ public class Rectangle {
     }
 
     public int computeArea() {
-
+        return 0;
     }
 
 }
