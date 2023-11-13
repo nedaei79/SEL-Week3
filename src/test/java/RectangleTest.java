@@ -19,7 +19,7 @@ public class RectangleTest {
     @Test
     public void testGetWidth() {
         Rectangle rectangle = new Rectangle(3, 4);
-        assertEquals("getWidth must give the actual width!", 4, rectangle.getHeight());
+        assertEquals("getWidth must give the actual width!", 4, rectangle.getWidth());
     }
 
     @Test
@@ -33,7 +33,7 @@ public class RectangleTest {
     public void testSetWidth() {
         Rectangle rectangle = new Rectangle(3, 4);
         rectangle.setWidth(6);
-        assertEquals("setWidth must set the width as expected!", 6, rectangle.getHeight());
+        assertEquals("setWidth must set the width as expected!", 6, rectangle.getWidth());
     }
 
 }
