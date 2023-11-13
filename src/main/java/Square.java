@@ -1,7 +1,7 @@
 public class Square {
     private int length;
 
-    public Square() {
+    public Square(int length) {
 
     }
 
