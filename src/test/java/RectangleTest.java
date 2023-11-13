@@ -10,4 +10,24 @@ public class RectangleTest {
         assertEquals("computeArea must compute area right!", 12, rectangle1.computeArea());
     }
 
+    @Test
+    public void testGetHeight() {
+
+    }
+
+    @Test
+    public void testGetWidth() {
+
+    }
+
+    @Test
+    public void testSetHeight() {
+
+    }
+
+    @Test
+    public void testSetWidth() {
+
+    }
+
 }

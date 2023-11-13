@@ -11,4 +11,20 @@ public class Rectangle {
         return this.height * this.width;
     }
 
+    public int getHeight() {
+
+    }
+
+    public int getWidth() {
+
+    }
+
+    public void setHeight(int height) {
+
+    }
+
+    public void setWidth(int width) {
+
+    }
+
 }

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b336a75-444f-45ff-9ed7-4d3c30baf4fe" name="Changes" comment="add computeArea method &amp; its test method">
-      <change beforePath="$PROJECT_DIR$/src/test/java/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RectangleTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="5b336a75-444f-45ff-9ed7-4d3c30baf4fe" name="Changes" comment="implement constructor &amp; computeArea method so that the tests are passed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,22 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="RectangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SEL-Week3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RectangleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RectangleTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699889629693</updated>
-      <workItem from="1699889631914" duration="1125000" />
+      <workItem from="1699889631914" duration="1504000" />
     </task>
     <task id="LOCAL-00001" summary="add rectangle &amp; its test class">
       <created>1699890390858</created>
@@ -72,7 +86,28 @@
       <option name="project" value="LOCAL" />
       <updated>1699890589706</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implement computeArea test">
+      <created>1699890941684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699890941684</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add code so that there are no compile errors">
+      <created>1699890986646</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699890986646</updated>
+    </task>
+    <task id="LOCAL-00005" summary="implement constructor &amp; computeArea method so that the tests are passed">
+      <created>1699891126789</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699891126789</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +127,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add rectangle &amp; its test class" />
     <MESSAGE value="add computeArea method &amp; its test method" />
-    <option name="LAST_COMMIT_MESSAGE" value="add computeArea method &amp; its test method" />
+    <MESSAGE value="implement computeArea test" />
+    <MESSAGE value="add code so that there are no compile errors" />
+    <MESSAGE value="implement constructor &amp; computeArea method so that the tests are passed" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement constructor &amp; computeArea method so that the tests are passed" />
   </component>
 </project>
